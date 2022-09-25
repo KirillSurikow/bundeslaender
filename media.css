@@ -1,0 +1,15 @@
+@media (max-width:800px){
+    .bigContainer{
+        max-width: 100%;
+    }
+
+    .bundeslandBox{
+        width: calc(50% - 10px)
+    }
+}
+
+@media (max-width:500px){
+    .bundeslandBox{
+        width: calc(100% - 10px)
+    }
+}
